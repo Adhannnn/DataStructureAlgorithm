@@ -1,3 +1,12 @@
+/* 
+ * Wahyu Ramadhan 
+ * 001202300005
+ * IT 2
+ * Data Structure and Algorithm - Assignment 1
+ * 
+ * R.B. Wahyu <- Lecturer
+*/
+
 import javax.sound.sampled.*; // Java sound API Package
 import java.io.File;
 import java.io.IOException;
